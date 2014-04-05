@@ -1,0 +1,7 @@
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\bin\Debug\Common.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\bin\Debug\Common.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\bin\Debug\Entity.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\bin\Debug\Entity.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\obj\Debug\Common.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Common\obj\Debug\Common.pdb

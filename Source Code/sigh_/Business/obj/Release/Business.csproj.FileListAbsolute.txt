@@ -1,0 +1,16 @@
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\Business.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\Business.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\CalendarDataAccess.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\CalendarEntity.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\Common.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\DataAccess.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\Entity.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\Common.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\CalendarEntity.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\Entity.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\CalendarDataAccess.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\DataAccess.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\obj\Release\ResolveAssemblyReference.cache
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\obj\Release\Business.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\obj\Release\Business.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\Business\bin\Release\MySql.Data.dll

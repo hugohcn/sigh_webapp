@@ -1,0 +1,7 @@
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\bin\Debug\CalendarDataAccess.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\bin\Debug\CalendarDataAccess.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\bin\Debug\CalendarEntity.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\bin\Debug\CalendarEntity.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\obj\Debug\CalendarDataAccess.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\CalendarDataAccess\obj\Debug\CalendarDataAccess.pdb

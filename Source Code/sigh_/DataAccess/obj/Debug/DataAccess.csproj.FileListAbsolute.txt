@@ -1,0 +1,10 @@
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\DataAccess.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\DataAccess.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\CalendarEntity.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\Entity.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\MySql.Data.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\CalendarEntity.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\bin\Debug\Entity.pdb
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\obj\Debug\DataAccess.dll
+D:\Espaço de Trabalho\Hugo Nascimento\Clínicas Radiológicas\Projeto\Código fonte\sigh_\DataAccess\obj\Debug\DataAccess.pdb
